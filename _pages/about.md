@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-====
+
 Hi, I am Srijan Chakraborty.
 
 
