@@ -18,21 +18,24 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 
 <span style="color:orange">Contact</span>: srijanc [At] cmi [dot] ac [dot] in, srijanc2604 [At] gmail [dot] com
 
+<span style="color:orange">Office</span>:  COM3-02-18 NUS
+
+<span style="color:orange">CV</span>: [link](https://raw.githubusercontent.com/rishavg3d2y/CV/main/document.pdf)
 
 ---
 
 <span style="color:#8fba8a"> Publications and Manuscripts </span>:
 =======
-
+abbba
 
 ---
 
-<span style="color:#8fba8a"> Talks </span> 🗣️:
+<span style="color:#8fba8a"> Talks </span> :
 =======
-
+aaaa
 ---
 
-<span style="color:#8fba8a"> Teachings </span>👨‍🏫:
+<span style="color:#8fba8a"> Teachings </span>:
 =======
 - Aug 2022 - Dec 2022, TA for Introduction to Programming in Haskell @ CMI
 - Aug 2023 - Dec 2023, TA for Design and Analysis of Algorithms @ CMI
