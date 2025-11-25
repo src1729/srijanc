@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:#8fba8a"> Hi,
 ====
+Hi, I am Srijan Chakraborty.
+
 
 I am a second year MSc Student in Computer Science at Chennai Mathematical Institute, working under the supervision of Prof. Samir Datta.
 
