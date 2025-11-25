@@ -18,9 +18,8 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 
 <span style="color:orange">Contact</span>: srijanc [At] cmi [dot] ac [dot] in, srijanc2604 [At] gmail [dot] com
 
-<span style="color:orange">Office</span>:  COM3-02-18 NUS
 
-<span style="color:orange">CV</span>: [link](https://raw.githubusercontent.com/rishavg3d2y/CV/main/document.pdf)
+<span style="color:orange">CV</span>: [link]
 
 ---
 
