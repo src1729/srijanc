@@ -11,6 +11,8 @@ redirect_from:
 ====
 
 I am a second year MSc Student in Computer Science at Chennai Mathematical Institute, working under the supervision of Prof. Samir Datta.
+
+
 My research interests lie in  Algorithms and Complexity Theory, in particular, Graph Theory, Algebraic Algorithms, Circuit Complexity.
 
 
