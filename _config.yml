@@ -15,7 +15,7 @@ name                     : &name "Srijan Chakraborty"
 description              : &description "personal description"
 url                      : https://src1729.github.io/srijanc # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rishavg3d2y.github.io/rishavg"
+repository               : "src1729.github.io/srijanc"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
