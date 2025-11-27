@@ -22,14 +22,14 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 <span style="color:orange">Contact</span>: srijanc [At] cmi [dot] ac [dot] in, srijanc2604 [At] gmail [dot] com
 
 
-<span style="color:orange">CV</span>: [link]
+<span style="color:orange">CV</span>: [link](https://www.dropbox.com/scl/fi/l4300cxz5j9v98d8rqxpi/main.pdf?rlkey=k80sx2e4hgn10y4rxqw9ozm7x&st=hgq4v203&dl=0)
 
 ---
 
 <span style="color:#8fba8a"> Publications and Manuscripts </span>:
 =======
-- <span style="color:light blue">Derandomizing Isolation In Catalytic Logspace</span>: In preperation, with V. Arvind and Samir Datta
-- <span style="color:light blue">Fast exact algorithms via the Matrix Tree Theorem</span>: In preperation, with V. Arvind, Samir Datta, and Asif Khan
+- <span style="color:orange">Derandomizing Isolation In Catalytic Logspace</span>: In preperation, with V. Arvind and Samir Datta
+- <span style="color:orange">Fast exact algorithms via the Matrix Tree Theorem</span>: In preperation, with V. Arvind, Samir Datta, and Asif Khan
 
 
 ---
