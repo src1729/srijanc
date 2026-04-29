@@ -28,6 +28,7 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 
 <span style="color:#8fba8a"> Publications and Manuscripts </span>:
 =======
+- <span style="color:orange">Derandomizing Isolation In Catalytic Logspace</span>: [arXiv](https://arxiv.org/abs/2604.24275), Samir Datta, Aryan Kusre, Partha Mukhopadhyay, and Amit Sinhababu
 - <span style="color:orange">Derandomizing Isolation In Catalytic Logspace</span>: [arXiv](https://arxiv.org/abs/2512.09374), with V. Arvind and Samir Datta
 - <span style="color:orange">Fast exact algorithms via the Matrix Tree Theorem</span>: [arXiv](https://arxiv.org/abs/2512.08600), with V. Arvind, Samir Datta, and Asif Khan
 
