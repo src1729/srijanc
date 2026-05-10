@@ -41,3 +41,4 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 - Aug 2023 - Dec 2023, TA for Design and Analysis of Algorithms @ CMI
 - Jan 2024 - May 2024, TA for Discrete Mathematics @ CMI
 - Jan 2025 - May 2025, TA for Computational Complexity Theory @ CMI
+- Jan 2026 - May 2026, TA for Parallel and Small Space Algorithms @ CMI
