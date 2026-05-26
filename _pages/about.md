@@ -22,6 +22,8 @@ I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/)
 <span style="color:orange">Contact</span>: srijanc [At] cmi [dot] ac [dot] in, srijanc2604 [At] gmail [dot] com
 
 
+<span style="color:orange">Master's Thesis</span>: [link](https://www.dropbox.com/scl/fi/8mmh7vzsieooxxm77w9o8/main.pdf?rlkey=17ygp1n6uc3tzrkgk73xr2oh1&st=wxbwrrx6&dl=0)
+
 <span style="color:orange">CV</span>: [link](https://www.dropbox.com/scl/fi/l4300cxz5j9v98d8rqxpi/main.pdf?rlkey=k80sx2e4hgn10y4rxqw9ozm7x&st=hgq4v203&dl=0)
 
 ---
