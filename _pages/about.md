@@ -11,13 +11,13 @@ redirect_from:
 Hi, I am Srijan Chakraborty.
 
 
-I am a second year MSc Student in Computer Science at Chennai Mathematical Institute, working under the supervision of Prof. Samir Datta.
+I am a first year PhD at UWaterloo, advised by [Sepehr Assadi](https://sepehr.assadi.info/) and [Rafael Oliveira](https://cs.uwaterloo.ca/~r5olivei/).
 
 
-My research interests lie in  Algorithms and Complexity Theory, in particular, Graph Theory, Algebraic Algorithms, Circuit Complexity.
+My research interests lie in  Algorithms and Complexity Theory, in particular, Graph Theory, Algebraic Algorithms, Circuit Complexity, and space bounded computation.
 
 
-I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/), in 2024.
+I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/), in 2024. I did my masters in Computer Science at CMI, under the supervision of [Samir Datta](https://www.cmi.ac.in/~sdatta/index.html).
 
 <span style="color:orange">Contact</span>: srijanc [At] cmi [dot] ac [dot] in, srijanc2604 [At] gmail [dot] com
 
