@@ -19,7 +19,7 @@ My research interests lie in  Algorithms and Complexity Theory, in particular, G
 
 I graduated from Chennai Mathematical Institute, [(CMI)](https://www.cmi.ac.in/), in 2024. I did my masters in Computer Science at CMI, under the supervision of [Samir Datta](https://www.cmi.ac.in/~sdatta/index.html).
 
-<span style="color:orange">Contact</span>: srijan.chakraborty [At] uwaterloo [dot] ca, srijanc2604 [At] gmail [dot] com
+<span style="color:orange">Contact</span>: srijan [dot] chakraborty [At] uwaterloo [dot] ca, srijanc2604 [At] gmail [dot] com
 
 
 <span style="color:orange">Master's Thesis</span>: [link](https://www.dropbox.com/scl/fi/8mmh7vzsieooxxm77w9o8/main.pdf?rlkey=17ygp1n6uc3tzrkgk73xr2oh1&st=wxbwrrx6&dl=0)
